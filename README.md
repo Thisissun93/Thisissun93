@@ -18,7 +18,7 @@ FC-BGA 기판 양산 라인에서 **6년간 공정·품질 엔지니어**로 일
 **[Material Quality Intelligence](https://github.com/Thisissun93/Material_Quality_Intelligence)**
 반도체 패키징 소재(언더필) 품질 분석
 <a href="https://github.com/Thisissun93/Material_Quality_Intelligence"><img src="https://raw.githubusercontent.com/Thisissun93/Material_Quality_Intelligence/main/docs/img/overview.png" alt="Material Quality Intelligence"></a>
-장비 출력 파일 자동 인식 → MSA·Cpk·SPC·T² → 공급사 CoA 검증 → 데이터로 채운 8D·SCAR, 조치 추적, 출하 성적서
+장비 출력 파일 자동 인식 → MSA·Cpk·SPC·T² → 공급사 CoA 검증 → 데이터로 채운 8D·SCAR, 조치 추적 → 재시험이 최초 부적합을 덮지 못하게 막는 OOS 조사·출하 판정, 출하 성적서
 
 [▶ 앱 실행](https://materialqualityintelligence-dknsnjemfstfko4zluzplu.streamlit.app/) · [GitHub](https://github.com/Thisissun93/Material_Quality_Intelligence)
 
