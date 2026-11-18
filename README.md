@@ -20,10 +20,12 @@ FC-BGA 기판 양산 라인에서 **6년간 공정·품질 엔지니어**로 일
 반도체 패키징 소재(언더필) 품질 분석
 <a href="https://github.com/Thisissun93/Material_Quality_Intelligence"><img src="https://raw.githubusercontent.com/Thisissun93/Material_Quality_Intelligence/main/docs/img/overview.png" alt="Material Quality Intelligence"></a>
 장비 출력 파일 자동 인식 → MSA·Cpk·SPC·T² → 공급사 CoA 검증 → 데이터로 채운 8D·SCAR, 조치 추적 → 재시험이 최초 부적합을 덮지 못하게 막는 OOS 조사·출하 판정
+- **업무 성과**: 클레임 로트 1건의 조사 자료(6개 시스템, 61건)를 0.2초 안에 모음. 수작업으로 반나절 가까이 걸리던 일 ([측정](https://github.com/Thisissun93/Material_Quality_Intelligence/blob/main/docs/benchmark_investigation.md))
+- **통계 검증**: Gage R&R·Cpk·EWMA·CUSUM·T² 등 28개 항목을 독립 계산과 대조해 모두 일치 ([검증표](https://github.com/Thisissun93/Material_Quality_Intelligence/blob/main/docs/stats_validation.md))
 - **설비 데이터 자동 수집**: 믹서를 OPC UA로 수집해 Step별 FDC 판정, 설비 이상 로트는 출하 보류
 - **출하 승인**: QA 검토 → 승인자 승인 두 전자서명, 서명 근거를 해시로 보존, 수정 불가 감사 추적
 - **AI 어시스턴트**: 사내 LLM이 시스템 데이터·SOP로만 답하고 출처와 근거 검사 표시 (34문항 평가 21% → 76%)
-- **서비스 구성**: PostgreSQL · REST API · Docker Compose, 테스트 91개를 두 DB로 CI 검증
+- **서비스 구성**: PostgreSQL · REST API · Docker Compose, 테스트 100개를 두 DB로 CI 검증
 
 [▶ 앱 실행](https://materialqualityintelligence-dknsnjemfstfko4zluzplu.streamlit.app/) · [GitHub](https://github.com/Thisissun93/Material_Quality_Intelligence)
 
