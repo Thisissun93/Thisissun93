@@ -35,7 +35,7 @@ FC-BGA 기판 양산 라인에서 **6년간 공정·품질 엔지니어**로 일
 CMP 슬러리 Batch 이탈 원인 조사
 <a href="https://github.com/Thisissun93/CMP-Manufacturing-Intelligence"><img src="https://raw.githubusercontent.com/Thisissun93/CMP-Manufacturing-Intelligence/main/docs/images/02_ph_additive_lot.png" alt="CMP Manufacturing Intelligence"></a>
 원료 LOT·공정·설비·QC 이력 연결 → 원인 후보 좁히기 → 영향 범위(출하분) 추적 → CAPA 효과 검증
-- **업무 성과**: 이탈 Batch 1건에서 원인 원료 LOT(pH 이탈 7건 100% 집중)과 이미 출하된 같은 LOT 2건까지 약 0.07초 (CSV 6종 6,039행) ([측정](https://github.com/Thisissun93/CMP-Manufacturing-Intelligence/blob/main/docs/BENCHMARK.md))
+- **업무 성과**: 이탈 Batch 1건에서 원인 후보 원료 LOT(pH 이탈 7건 100% 집중)과 그 LOT으로 만들어 이미 출하된 2건까지 약 0.07초 (CSV 6종 6,039행) ([측정](https://github.com/Thisissun93/CMP-Manufacturing-Intelligence/blob/main/docs/BENCHMARK.md))
 - **검증**: 공정능력·회귀·Spearman·분산성분 23개 값을 pandas·scipy·statsmodels 독립 계산과 대조해 모두 일치 ([검증](https://github.com/Thisissun93/CMP-Manufacturing-Intelligence/blob/main/VALIDATION.md))
 - **구성**: 설치 없는 정적 웹앱(JavaScript), 출하 판정 테스트와 독립 계산 대조를 커밋마다 CI 실행
 
