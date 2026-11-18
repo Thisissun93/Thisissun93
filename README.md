@@ -78,10 +78,13 @@ MES 데이터 → 이상 감지·원인 분석·조치 추천 → SPC(I-MR, Cp/C
 ### 💼 경력
 
 **대덕전자** · FC-BGA / ABF Package Substrate 공정·품질 엔지니어 (2020 – 2026)
-- 검사 협력사 이물 판정 기준 통일, FT-IR 라이브러리 구축 → 후이물 불량률 **1.1% → 0.4%**
-- ABF Annealing을 Batch 오븐에서 Vertical Oven으로 전환, 투입·배출 자동화 → 생산량 **1,300 → 1,800 m²/월**
+- 검사 협력사 Audit, FT-IR 라이브러리 구축 → 후이물 불량률 **1.1% → 0.4%**
+- ABF Annealing을 Batch 오븐에서 Vertical Oven으로 전환, 투입·배출 자동화
+- ABF 3rd Lamination Set-up
 - 습식 전처리 약품 신규 평가·표준화 → 국내 2번째 Automotive向 양산 승인
-- 고객 8D 대응(ABF Delamination), JMP 기반 DOE·ANOVA·SPC, 소재 Qualification
+- 고객 8D 대응(ABF Delamination etc), JMP 기반 DOE·ANOVA·SPC, 소재 Qualification
+- 이물 설비 공통 제작 사양서, 양산 관리 규정, 클린룸/세정기 표준 제/개정
+- FMEA, CP, OCAP, SOP 등 표준 제/개정
 
 ### 📜 자격
 6시그마 Black Belt · Professional Scrum Master I
