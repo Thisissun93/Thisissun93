@@ -3,6 +3,8 @@
 FC-BGA 기판 양산 라인에서 **6년간 공정·품질 엔지니어**로 일했습니다.
 현장에서 겪은 문제를 데이터로 풀어 보는 도구를 만들고 있습니다.
 
+> **English** — I worked 6 years as a process and quality engineer on an FC-BGA substrate production line. I build tools that solve real shop-floor problems with data. Each project below has a short English summary at the top of its page.
+
 `공정·품질` · `MSA·SPC·Cpk` · `8D·SCAR` · `JMP` · `Python` · `Streamlit`
 `OPC UA·FDC` · `FastAPI·PostgreSQL·Docker` · `사내 LLM·RAG`
 
