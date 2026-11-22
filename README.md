@@ -24,7 +24,7 @@ FC-BGA 기판 양산 라인에서 **6년간 공정·품질 엔지니어**로 일
 장비 출력 파일 자동 인식 → MSA·Cpk·SPC·T² → 공급사 CoA 검증 → 데이터로 채운 8D·SCAR, 조치 추적 → 재시험이 최초 부적합을 덮지 못하게 막는 OOS 조사·출하 판정
 - **업무 성과**: 클레임 로트 1건의 조사 자료(6개 시스템, 61건)를 0.2초 안에 모음. 수작업으로 반나절 가까이 걸리던 일 ([측정](https://github.com/Thisissun93/Material_Quality_Intelligence/blob/main/docs/benchmark_investigation.md))
 - **검증**: Gage R&R·Cpk·EWMA·CUSUM·T² 등 28개 항목을 독립 계산과 대조해 모두 일치 ([검증표](https://github.com/Thisissun93/Material_Quality_Intelligence/blob/main/docs/stats_validation.md))
-- **구성**: OPC UA 설비 수집·FDC, 전자서명 출하 승인·감사 추적, 사내 LLM 어시스턴트(34문항 21% → 76%), PostgreSQL·Docker, 테스트 104개 CI
+- **구성**: OPC UA 설비 수집·FDC, 전자서명 출하 승인·감사 추적, 사내 LLM 어시스턴트(34문항 21% → 76%), PostgreSQL·Docker, 테스트 108개 CI
 
 [▶ 앱 실행](https://materialqualityintelligence-dknsnjemfstfko4zluzplu.streamlit.app/) · [GitHub](https://github.com/Thisissun93/Material_Quality_Intelligence)
 
